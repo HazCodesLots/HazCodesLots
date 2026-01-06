@@ -17,6 +17,9 @@
 ![torch.cuda](https://img.shields.io/badge/torch.cuda-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![torch.onnx](https://img.shields.io/badge/torch.onnx-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C?style=flat&logo=langgraph&logoColor=white&scale=0.75)   
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -33,7 +36,7 @@
 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 # :bookmark_tabs: Research Stack and References
 📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/blob/main/GraphNeXt/GraphNeXt.ipynb) **A ConvNet for the 2020s (ConvNeXt)** - Liu et al., CVPR 2022 | [Paper](https://arxiv.org/abs/2201.03545)  
