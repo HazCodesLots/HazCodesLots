@@ -36,7 +36,9 @@
 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)  
+
+📊 RawGAT-ST Overall EER: 2.45%, min‑tDCF: 0.1713 ASVspoof2019  
 
 # :bookmark_tabs: Research Stack and References
 📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/FrontEnds/ConvNeXt) **A ConvNet for the 2020s (ConvNeXt)** - Liu et al., CVPR 2022 | [Paper](https://arxiv.org/abs/2201.03545)  
