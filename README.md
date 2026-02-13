@@ -42,12 +42,12 @@
 
 # :bookmark_tabs: Research Stack and References
 📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/Frontend/ConvNeXt) **A ConvNet for the 2020s (ConvNeXt)** - Liu et al., CVPR 2022 | [Paper](https://arxiv.org/abs/2201.03545)  
-📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/FrontEnd/ResNet) **Deep Residual Learning for Image Recognition** - He et al., CVPR 2016 | [Paper](https://arxiv.org/abs/1512.03385)  
-📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/FrontEnd/ResNet) **Res2Net: A New Multi-scale Backbone Architecture** - Gao et al., TPAMI 2021 | [Paper](https://arxiv.org/abs/1904.01169)    
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/Frontend/ResNet) **Deep Residual Learning for Image Recognition** - He et al., CVPR 2016 | [Paper](https://arxiv.org/abs/1512.03385)  
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/Frontend/ResNet) **Res2Net: A New Multi-scale Backbone Architecture** - Gao et al., TPAMI 2021 | [Paper](https://arxiv.org/abs/1904.01169)    
 📄 [Implementation](https://github.com/HazCodesLots/Nueral-Image-Caption-Generator) **Show and Tell: A Neural Image Caption Generator** - Vinyals et al., CVPR 2015 | [Paper](https://arxiv.org/abs/1411.4555)  
 📄 [Implementation](https://github.com/HazCodesLots/Mutimodel-Agentic-Assistant/blob/main/ToolBox/DeepSeekOCR.py) **DeepSeek-OCR: Contexts Optical Compression** - Wei et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2510.18234)  
 📄 [Implementation](https://github.com/HazCodesLots/MediaPipe-Posture-Detection) **MediaPipe: A Framework for Building Perception Pipelines** - Lugaresi et al., 2019 | [Paper](https://arxiv.org/abs/1906.08172)  
 📄 [Implementation](https://github.com/HazCodesLots/Mutimodel-Agentic-Assistant/blob/main/ToolBox/FAISS-RAG.ipynb) **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** - Lewis et al., NeurIPS 2020 | [Paper](https://arxiv.org/abs/2005.11401)  
 📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection) **Focal Loss for Dense Object Detection**  - Lin et al., ICCV 2017 | [Paper](https://arxiv.org/abs/1708.02002)  
-📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/FrontEnd/AASIST) **AASIST: Audio Anti-Spoofing using Integrated Spectro-Temporal Graph Attention Networks**
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/Frontend/AASIST) **AASIST: Audio Anti-Spoofing using Integrated Spectro-Temporal Graph Attention Networks**
 <br>- Jung et al., ICASSP 2022 | [Paper](https://arxiv.org/abs/2110.01200)    
