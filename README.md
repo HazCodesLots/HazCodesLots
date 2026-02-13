@@ -41,7 +41,7 @@
 # 📊 RawGAT-ST Overall EER: 2.45%, min‑tDCF: 0.1713 ASVspoof2019  
 
 # :bookmark_tabs: Research Stack and References
-📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/FrontEnd/ConvNeXt) **A ConvNet for the 2020s (ConvNeXt)** - Liu et al., CVPR 2022 | [Paper](https://arxiv.org/abs/2201.03545)  
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/Frontend/ConvNeXt) **A ConvNet for the 2020s (ConvNeXt)** - Liu et al., CVPR 2022 | [Paper](https://arxiv.org/abs/2201.03545)  
 📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/FrontEnd/ResNet) **Deep Residual Learning for Image Recognition** - He et al., CVPR 2016 | [Paper](https://arxiv.org/abs/1512.03385)  
 📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/FrontEnd/ResNet) **Res2Net: A New Multi-scale Backbone Architecture** - Gao et al., TPAMI 2021 | [Paper](https://arxiv.org/abs/1904.01169)    
 📄 [Implementation](https://github.com/HazCodesLots/Nueral-Image-Caption-Generator) **Show and Tell: A Neural Image Caption Generator** - Vinyals et al., CVPR 2015 | [Paper](https://arxiv.org/abs/1411.4555)  
