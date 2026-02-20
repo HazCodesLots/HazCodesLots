@@ -41,7 +41,7 @@
 ## 📊 ConvNeXt-GAP  mAP: 0.30  SONYC-UST Urban Sound Tagging (23-class multi-label)
 ## 📊 LFCC-LCNN Overall EER: 0.5129% WaveFake LeaveOneVocoderOut Evaluation
 ## 📊 LFCC-LCNN Overall EER: 0.3817% WaveFake 80/20 Test Evaluation
-## 📊 RawGAT-ST Overall EER: 2.45%, min‑tDCF: 0.1713 ASVspoof2019 Evaluation set (Closed condition)  
+## 📊 RawGAT-ST Overall EER: 2.45%, min‑tDCF: 0.1713 ASVspoof2019 Evaluation set
 ## 📊 ResNet-18 Overall EER: 1.41% LFCC 80/20 split  ODSS Validation set
 ## 📊 ResNet-18 Overall EER: 3.15% MFCC 80/20 split  ODSS Validation set
 
