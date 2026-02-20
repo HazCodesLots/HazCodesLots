@@ -38,8 +38,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
-# 📊 ResNet-SE Overall EER: 4.54%                    ASVspoof2019 Evaluation  
-# 📊 RawGAT-ST Overall EER: 2.45%, min‑tDCF: 0.1713  ASVspoof2019 Evaluation  
+## 📊 ConvNeXt-GAP  mAP: 0.30  SONYC-UST Urban Sound Tagging (23-class multi-label)
+## 📊 LFCC-LCNN Overall EER: 0.5129% WaveFake LeaveOneVocoderOut Evaluation
+## 📊 LFCC-LCNN Overall EER: 0.3817% WaveFake 80/20 Test Evaluation
+## 📊 RawGAT-ST Overall EER: 2.45%, min‑tDCF: 0.1713 ASVspoof2019 Evaluation set (Closed condition)  
+## 📊 ResNet-18 Overall EER: 1.41% LFCC 80/20 split  ODSS Validation set
+## 📊 ResNet-18 Overall EER: 3.15% MFCC 80/20 split  ODSS Validation set
 
 # :bookmark_tabs: Research Stack and References
 📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/Frontend/ConvNeXt) **A ConvNet for the 2020s (ConvNeXt)** - Liu et al., CVPR 2022 | [Paper](https://arxiv.org/abs/2201.03545)  
