@@ -50,5 +50,3 @@
 📄 [Implementation](https://github.com/HazCodesLots/Mutimodel-Agentic-Assistant/blob/main/ToolBox/DeepSeekOCR.py) **DeepSeek-OCR: Contexts Optical Compression** - Wei et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2510.18234)  
 📄 [Implementation](https://github.com/HazCodesLots/MediaPipe-Posture-Detection) **MediaPipe: A Framework for Building Perception Pipelines** - Lugaresi et al., 2019 | [Paper](https://arxiv.org/abs/1906.08172)  
 📄 [Implementation](https://github.com/HazCodesLots/Mutimodel-Agentic-Assistant/blob/main/ToolBox/FAISS-RAG.ipynb) **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** - Lewis et al., NeurIPS 2020 | [Paper](https://arxiv.org/abs/2005.11401) 
-📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/AASIST) **AASIST: Audio Anti-Spoofing using Integrated Spectro-Temporal Graph Attention Networks**
-<br>- Jung et al., ICASSP 2022 | [Paper](https://arxiv.org/abs/2110.01200)    
