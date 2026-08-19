@@ -38,15 +38,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
-## 📊 ConvNeXt-GAP  mAP: 0.33  SONYC-UST Urban Sound Tagging (23-class multi-label)
-## 📊 LFCC-LCNN Overall EER: 0.5129% WaveFake LeaveOneVocoderOut Evaluation
-## 📊 LFCC-LCNN Overall EER: 0.3817% WaveFake 80/20 Test Evaluation
-## 📊 RawGAT-ST Overall EER: 2.45%, min‑tDCF: 0.1713 ASVspoof2019 Evaluation set
-## 📊 ResNet-18 Overall EER: 1.41% LFCC 80/20 split  ODSS Validation set
-## 📊 ResNet-18 Overall EER: 3.15% MFCC 80/20 split  ODSS Validation set
+## 📊 AASIST3-Wav2vec2 Overall EER: 8.58%, min-DCF: 0.21 ASVspoof5 Evaluation set
+## 📊 LFCC-LCNN        Overall EER: 0.5129% WaveFake LeaveOneVocoderOut Evaluation
+## 📊 LFCC-LCNN        Overall EER: 0.3817% WaveFake 80/20 Test Evaluation
+## 📊 RawGAT-ST        Overall EER: 2.45%, min‑tDCF: 0.1713 ASVspoof2019 Evaluation set
+## 📊 ResNet-SE        Overall EER: 7.86% ASVspoof2019 Evaluation set
 
 # :bookmark_tabs: Research Stack and References
-📄 [Implementation](https://github.com/HazCodesLots/Nueral-Image-Caption-Generator) **Show and Tell: A Neural Image Caption Generator** - Vinyals et al., CVPR 2015 | [Paper](https://arxiv.org/abs/1411.4555)  
-📄 [Implementation](https://github.com/HazCodesLots/Mutimodel-Agentic-Assistant/blob/main/ToolBox/DeepSeekOCR.py) **DeepSeek-OCR: Contexts Optical Compression** - Wei et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2510.18234)  
-📄 [Implementation](https://github.com/HazCodesLots/MediaPipe-Posture-Detection) **MediaPipe: A Framework for Building Perception Pipelines** - Lugaresi et al., 2019 | [Paper](https://arxiv.org/abs/1906.08172)  
-📄 [Implementation](https://github.com/HazCodesLots/Mutimodel-Agentic-Assistant/blob/main/ToolBox/FAISS-RAG.ipynb) **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** - Lewis et al., NeurIPS 2020 | [Paper](https://arxiv.org/abs/2005.11401) 
+
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/AASIST3-Wav2vec2) **AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL
+Features and Additional Regularization for the ASVspoof 2024 Challenge**, ASVspoof5 2024 | [Paper](https://arxiv.org/pdf/2408.17352)  
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/LFCC-LCNN) **STC Antispoofing Systems for the ASVspoof2019 Challenge**, ASVspoof2019 | [Paper](https://arxiv.org/pdf/1904.05576) **WaveFake: A Data Set to Facilitate Audio Deepfake Detection** | [Paper](https://arxiv.org/pdf/2111.02813)  
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/RawGAT-ST) **End-to-End Spectro-Temporal Graph Attention Networks for Speaker Verification Anti-Spoofing and Speech Deepfake Detection** | [Paper](https://arxiv.org/pdf/2107.12710)  
+📄 [Implementation](https://github.com/HazCodesLots/AudioForgeryDetection/tree/main/ResNet) **Deep Residual Learning for Image Recognition** | [Paper](https://arxiv.org/pdf/1512.03385)  
+📄 [Implementation](https://github.com/HazCodesLots/Nueral-Image-Caption-Generator) **Show and Tell: A Neural Image Caption Generator**, CVPR 2015 | [Paper](https://arxiv.org/abs/1411.4555)  
+
